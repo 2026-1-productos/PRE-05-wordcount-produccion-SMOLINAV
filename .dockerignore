@@ -1,8 +1,8 @@
-# .dockerignore
-.venv/
+.venv/ 
 .vscode/
 tests/
-README*
+Readme*
 setup.bat
 setup.sh
 wordcount.ipynb
+
